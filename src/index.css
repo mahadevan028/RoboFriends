@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(35,35,154,1) 35%, rgba(18,122,204,1) 87%, rgba(0,212,255,1) 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'SEGA LOGO FONT';
+  src: url('C:\Users\N Mahadevan\Desktop\MyProjects\robofriends\src\SEGA.TTF');
+}
+
+h1{
+  font-family: 'SEGA LOGO FONT';
+  color: #00CED1;
+}
